@@ -1,0 +1,2 @@
+export DOMAIN=warden.junnn.xyz
+export cloudflare=CGSSVCjmHeTPcqeIL2ymXfds3NqczvFGgesF0JTM
